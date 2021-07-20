@@ -1,11 +1,36 @@
 h3
 {
-    color: blue;   
-    font-size:large ;
+  
+    color:burlywood;  
+    font-size: 30px ;
+    font-family: times new roman;
 }  
- em
-{
-    h1
-    color:
+h2
 
+{
+    color: burlywood;
+    font-size: 30px;
+    font-family: Georgia;
+    text-align: center;
+   
+}
+h1 
+{
+  font-size: 40PX;
+   color: black; 
+    font-family: Georgia; 
+    text-align: center;
+    color: white;
+    background-color: grey;
+    border-style: solid;
+    border-width: medium;
+    border-color: black;
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-top: 15px;
+}
+
+.souligne
+{
+    
 }
