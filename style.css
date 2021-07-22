@@ -4,11 +4,11 @@ h3{
     font-size: 30px ;
     font-family: times new roman;
     text-align: center;
-    color:blue
+    color:green; 
 
 }  
 h2{
-    color: burlywood;
+    color: grey;
     font-size: 30px;
     font-family: Georgia;
     text-align: center;
@@ -23,8 +23,53 @@ h1 {
     color: black;
     text-shadow: 2px 4px 3px;
     color: cadetblue;
-}
+   
+     text-justify: inter-word;
+    }
+
 
 .blocgauche, .blocdroit{
     border: 1px solid blue; width: 500px;
     position: relative; float: left; 
+text-align: justify;
+}
+.formation{
+    color: purple;
+}
+
+
+.nom{
+    color:royalblue
+}
+
+.date{
+    color: pink;
+
+}
+.simplon{
+    color: purple;
+}
+.date{
+    color: blue;
+}
+.nom{
+    color: cornflowerblue;
+}
+.janvier{
+    color: crimson;
+}
+.instep{
+    color: blue;
+}
+.décembre{
+    color: coral;
+}
+.agence{
+    color: darkgreen;
+}
+.date{
+    color: darkmagenta;
+}
+.socété{
+    color: darkslateblue;
+}
