@@ -1,36 +1,30 @@
-h3
-{
+h3{
   
     color:burlywood;  
     font-size: 30px ;
     font-family: times new roman;
-}  
-h2
+    text-align: center;
+    color:blue
 
-{
+}  
+h2{
     color: burlywood;
     font-size: 30px;
     font-family: Georgia;
     text-align: center;
-   
 }
-h1 
-{
+
+
+h1 {
   font-size: 40PX;
    color: black; 
     font-family: Georgia; 
     text-align: center;
-    color: white;
-    background-color: grey;
-    border-style: solid;
-    border-width: medium;
-    border-color: black;
-    margin-left: 25px;
-    margin-right: 25px;
-    margin-top: 15px;
+    color: black;
+    text-shadow: 2px 4px 3px;
+    color: cadetblue;
 }
 
-.souligne
-{
-    
-}
+.blocgauche, .blocdroit{
+    border: 1px solid blue; width: 500px;
+    position: relative; float: left; 
