@@ -1,3 +1,4 @@
+
 h3{    
     font-size: 30px;
     font-family: times new roman;
@@ -74,7 +75,7 @@ text-align: justify;
 }
 #contact{
     line-height: 30px;
-    padding-left: 100px;  
+    padding-left: 0px;  
 }
 p {
     margin-top: 10px;
@@ -93,7 +94,7 @@ p {
     transform: translatey(-50px);
 }
 li{
-    transform: translateX(200px);
+    transform: translateX(45px);
     position: relative;
 }
 .titredroit{
@@ -101,7 +102,6 @@ li{
     position: relative;
 }
 .titregauche{
-    left:  -10px; 
+    left:-10px; 
     position: relative;
 }
-
