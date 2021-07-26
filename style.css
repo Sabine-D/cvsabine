@@ -1,3 +1,6 @@
+header{
+  
+}
 h3{
   
     color:burlywood;  
@@ -5,15 +8,16 @@ h3{
     font-family: times new roman;
     text-align: center;
     color:green; 
-
+    
 }  
 h2{
     color: grey;
     font-size: 30px;
     font-family: Georgia;
     text-align: center;
-}
+  
 
+}
 
 h1 {
   font-size: 40PX;
@@ -23,21 +27,26 @@ h1 {
     color: black;
     text-shadow: 2px 4px 3px;
     color: cadetblue;
-   
      text-justify: inter-word;
     }
-
-
-.blocgauche, .blocdroit{
-    border: 1px solid blue; width: 500px;
-    position: relative; float: left; 
+    .principal{
+        display: flex;
+    
+    }
+ .blocdroit{
+    width: 100%;
+    padding-left: 90px;
+    /* float: left;*/ 
 text-align: justify;
+}
+.blocgauche{
+    width: 100%;
+    font-weight: bold 10px;
+    background-color: gray;
 }
 .formation{
     color: purple;
 }
-
-
 .nom{
     color:royalblue
 }
@@ -72,4 +81,34 @@ text-align: justify;
 }
 .socété{
     color: darkslateblue;
+}
+#contact{line-height: 30px;}
+
+p {
+    margin-top: 10px;
+    margin-bottom: 20px;
+
+    margin-right: 100px;
+   margin-left: 80px;
+  }
+  .interlignage{ 
+    line-height:14px; 
+}
+#photo1{
+    height: 200px;
+    border-radius: 100px;
+    position: absolute;
+    transform: translatey(-50px);
+}
+li{
+    transform: translateX(200px);
+    position: relative;
+}
+.titredroit{
+    left:  -100px; 
+    position: relative;
+}
+.titregauche{
+    left:  -10px; 
+    position: relative;
 }
