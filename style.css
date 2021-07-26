@@ -1,33 +1,24 @@
-header{
-  
-}
-h3{
-  
-    color:burlywood;  
-    font-size: 30px ;
+h3{    
+    font-size: 30px;
     font-family: times new roman;
     text-align: center;
-    color:green; 
-    
+    color:green;     
 }  
 h2{
-    color: grey;
+    color:rgb(5, 5, 63);
     font-size: 30px;
     font-family: Georgia;
     text-align: center;
-  
-
 }
 
 h1 {
-  font-size: 40PX;
-   color: black; 
+    font-size: 40PX;
     font-family: Georgia; 
     text-align: center;
-    color: black;
     text-shadow: 2px 4px 3px;
-    color: cadetblue;
+    color: blue;
      text-justify: inter-word;
+     padding-top: 150px;
     }
     .principal{
         display: flex;
@@ -53,7 +44,6 @@ text-align: justify;
 
 .date{
     color: pink;
-
 }
 .simplon{
     color: purple;
@@ -82,8 +72,10 @@ text-align: justify;
 .socété{
     color: darkslateblue;
 }
-#contact{line-height: 30px;}
-
+#contact{
+    line-height: 30px;
+    padding-left: 100px;  
+}
 p {
     margin-top: 10px;
     margin-bottom: 20px;
@@ -112,3 +104,4 @@ li{
     left:  -10px; 
     position: relative;
 }
+
